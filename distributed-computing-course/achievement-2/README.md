@@ -19,7 +19,7 @@
 ![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/component_diagram.png?raw=true)
 
 ### 2. Диаграмма последовательностей (средняя сложность)
-TODO
+![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/sequence_diagram.png?raw=true)
 
 ### 3. Система на языке Python (высокая сложность)
 TODO
