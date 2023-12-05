@@ -27,7 +27,8 @@ if __name__ == '__main__':
         host     = "localhost",
         database = "mydb",
         user     = "admin",
-        password = "password"
+        password = "password",
+        port=5432
             )
         
         cur = conn.cursor()
