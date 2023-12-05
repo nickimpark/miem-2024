@@ -22,4 +22,6 @@
 ![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/sequence_diagram.png?raw=true)
 
 ### 3. Система на языке Python (высокая сложность)
-TODO
+Python3 + PostgreSQL (with psycopg2)
+
+https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/main.py
