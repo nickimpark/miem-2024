@@ -16,7 +16,7 @@
 
 ## Решение
 ### 1. Диаграмма компонент (стандартная сложность)
-![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/component_diagram.png?raw=true)
+![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/component_diagram_1.png?raw=true)
 
 ### 2. Диаграмма последовательностей (средняя сложность)
 ![image](https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/sequence_diagram.png?raw=true)
