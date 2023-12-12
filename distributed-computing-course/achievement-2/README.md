@@ -25,6 +25,7 @@
 Python3 + PostgreSQL (with psycopg2)
 
 Серверная часть: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/server.py">server.py</a>
+
 Клиентская часть: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/client.py">client.py</a>
 
 (Дополнительно) Создание пустой таблицы для примера: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/make_table.py">make_table.py</a>
