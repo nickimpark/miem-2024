@@ -26,4 +26,9 @@ Python3 + PostgreSQL (with psycopg2)
 
 Flask App: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/main.py">main.py</a>
 
+```
+docker build -t number-increment .
+docker run --env-file=env.txt --network=host -p 5000:5000  number-increment
+```
+
 (Дополнительно) Создание пустой таблицы для примера: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/create_table.py">create_table.py</a>
