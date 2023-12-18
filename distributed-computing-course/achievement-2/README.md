@@ -24,8 +24,6 @@
 ### 3. Система на языке Python (высокая сложность)
 Python3 + PostgreSQL (with psycopg2)
 
-Серверная часть: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/server.py">server.py</a>
-
-Клиентская часть: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/client.py">client.py</a>
+Flask App: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/main.py">main.py</a>
 
 (Дополнительно) Создание пустой таблицы для примера: <a href="https://github.com/nickimpark/miem-2024/blob/main/distributed-computing-course/achievement-2/create_table.py">create_table.py</a>
